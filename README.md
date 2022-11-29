@@ -9,38 +9,38 @@
 
 ## Latihan 1
 * ### Membuat **Dictionary** daftar kontak, dengan nama sebagai "key" dan nomor sebagai "value"!!
-+ ![img10-1](img/img10-1.png)
++ ![img10-1](Praktikum6/img/img10-1.png)
 
 * ### Menampilkan hasil output **Dictionary** `daftar_kontak`:
-+ ![img10-2](img/img10-2.JPG)
++ ![img10-2](Praktikum6/img/img10-2.JPG)
 
 * ### Menambahkan kontak baru dengan nama "Riko" dengan nomor telepon "087654544"!!
-+ ![img10-3](img/img10-3.png)
++ ![img10-3](Praktikum6/img/img10-3.png)
 * ### Hasilnya:
-+ ![img10-4](img/img10-4.png)
++ ![img10-4](Praktikum6/img/img10-4.png)
 
 * ### Mengubah kontak "Dina" dengan nomor baru "088999776"
-+ ![img10-5](img/img10-5.png)
++ ![img10-5](Praktikum6/img/img10-5.png)
 * ### Hasilnya:
-+ ![img10-6](img/img10-6.png)
++ ![img10-6](Praktikum6/img/img10-6.png)
 
 * ### Menampilkan semua nama atau semua nomor!! Di karenakan saya menggunakan perulangan `for`, maka saya hanya perlu menghapus salah satu string dari **nama** ataupun **nomor**. Syntax-nya:
-+ ![img10-7](img/img10-7.png)
++ ![img10-7](Praktikum6/img/img10-7.png)
 
 * ### Contoh syntax dan hasil untuk menampilkan **nomor** saja:
-+ ![img10-8](img/img10-8.png)
-+ ![img10-9](img/img10-9.png)
++ ![img10-8](Praktikum6/img/img10-8.png)
++ ![img10-9](Praktikum6/img/img10-9.png)
 
 * ### Contoh syntax dan hasil untuk menampilkan **nama** saja:
-+ ![img10-10](img/img10-10.png)
-+ ![img10-11](img/img10-11.png)
++ ![img10-10](Praktikum6/img/img10-10.png)
++ ![img10-11](Praktikum6/img/img10-11.png)
 
 * ### Menghapus kontaknya "Dina", dengan menggunakan syntax sebagai berikut:
-+ ![img10-12](img/img10-12.png)
++ ![img10-12](Praktikum6/img/img10-12.png)
 * ### Hasil output sebelum dihapus:
-+ ![img10-6](img/img10-6.png)
++ ![img10-6](Praktikum6/img/img10-6.png)
 * ### Hasil output sesudah dihapus:
-+ ![img10-13](img/img10-13.png)
++ ![img10-13](Praktikum6/img/img10-13.png)
 
 * ### Berikut semua syntax program yang saya buat:
 ```python
