@@ -40,7 +40,7 @@
 * ### Hasil output sebelum dihapus:
 + ![img10-6](img/img10-6.png)
 * ### Hasil output sesudah dihapus:
-+ ![img10-13](img/img10-13.png)
++ ![img10-13](img/img10-13.PNG)
 
 * ### Berikut semua syntax program yang saya buat:
 ```python
